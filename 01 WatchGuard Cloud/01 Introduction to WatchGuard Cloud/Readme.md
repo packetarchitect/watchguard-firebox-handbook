@@ -12,7 +12,7 @@ The introductory video presents these areas:
 
 For a Subscriber account with activated devices or services, the Dashboard includes **Home** and **Threats** tabs. Widgets show aggregated information and link to the relevant detailed area.
 
-> A Service Provider account has a different start page. The video refers learners to the separate *WatchGuard Cloud for Service Providers* course for that view.
+> A Service Provider account has a different start page.
 
 ## Partner vs End User
 
