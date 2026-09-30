@@ -22,35 +22,8 @@ This repository turns official WatchGuard training into clear, practical notes t
 
 ```text
 watchguard-firebox-handbook/
-│
-├── 01-WatchGuard-Cloud/
-├── 02-Network-and-Security-Basics/
-├── 03-Firebox-Admin-and-Setup/
-├── 04-Logging-and-Monitoring/
-├── 05-Networking-on-the-Firebox/
-├── 06-Firewall-Policies/
-├── 07-Proxy-Policies/
-├── 08-Security-Services/
-├── 09-Certificates/
-├── 10-Authentication/
-├── 11-Virtual-Private-Networks/
-├── 12-ThreatSync/
-├── Labs/
-└── Resources/
 ```
 
-## Study Method
-
-Each topic is documented with:
-
-- What it is and why it matters
-- WatchGuard terminology
-- Configuration concepts
-- GUI or Policy Manager references
-- Verification and troubleshooting steps
-- Common mistakes
-- Practical lab ideas
-- FortiGate comparisons where useful
 
 ## Source Material
 
